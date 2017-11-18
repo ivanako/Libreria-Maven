@@ -8,3 +8,6 @@ target/
 
 # git
 .gitattributes
+
+# subversion
+.svn/
